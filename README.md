@@ -1,2 +1,3 @@
 # CS181.Assignment
 This repository consists of CS 181 Programming Assignment.
+This program is designed to calculate the average pay and compare the pay amount of several managers using class.It begins by asking the user to input the number of managers. Following this, it prompts the user to input details such as the name of each manager, their pay rate, and bonus amount. After gathering the necessary data,the program identifies the manager who receives the highest pay and calculates the average pay across all managers.The details of the manager with the highest pay and the average pay are then displayed for the user's reference.
